@@ -37,9 +37,7 @@ GIRO_ESTRELLA = 0.8 * np.pi  # 144 grados
 PROGRAMA = [
     (1.0, 0.0, LADO), (0.0, np.pi, GIRO_ESTRELLA / np.pi),
     (1.0, 0.0, LADO), (0.0, np.pi, GIRO_ESTRELLA / np.pi),
-    (1.0, 0.0, LADO), (0.0, np.pi, GIRO_ESTRELLA / np.pi),
-    (1.0, 0.0, LADO), (0.0, np.pi, GIRO_ESTRELLA / np.pi),
-    (1.0, 0.0, LADO), (0.0, np.pi, GIRO_ESTRELLA / np.pi),
+    (1.0, 0.0, LADO), (0.0, np.pi, GIRO_ESTRELLA / np.pi)
 ]
 
 POSICION_INICIAL = (0.0, 0.0, 0.0)  # x [m], y [m], orientación [rad]
