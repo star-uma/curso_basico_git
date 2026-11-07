@@ -1,0 +1,10 @@
+{
+  "nombre": "Adrian",
+  "robot": "Dummy",
+  "color": "#FFAB1F",
+  "forma": "triangulo",
+  "ojos": 1,
+  "antena": true,
+  "traccion": "orugas",
+  "lema": ";)"
+}
